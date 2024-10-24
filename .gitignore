@@ -1,0 +1,21 @@
+# Ignorar node_modules
+node_modules/
+
+# Ignorar archivos de logs
+npm-debug.log
+yarn-debug.log*
+yarn-error.log*
+
+# Ignorar archivos de entorno
+.env
+
+# Ignorar carpetas de builds o distribuciones
+dist/
+build/
+
+# Ignorar coverage de pruebas
+coverage/
+
+# Ignorar archivos de editor/IDE (ejemplo: VSCode, JetBrains)
+.vscode/
+.idea/
